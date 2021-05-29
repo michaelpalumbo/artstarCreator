@@ -24,6 +24,6 @@
     "os": "^0.1.1",
     "python-shell": "^1.0.8",
     "reconnecting-websocket": "^4.2.0",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   }
 }
